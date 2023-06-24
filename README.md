@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @Estate360
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Nweke's+GitHub+Profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hello, I'm Gospel Nweke Akachukwu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+<hr/>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning cloude service (AWS) ...
+- 👯 I’m looking to collaborate on ...
 - 👀 I’m interested in Tech and it's Adventure
-- 🌱 I’m currently learning NodeJs | Typescript | UML's | GraphQL | Databases | Github Flow | GitFlow
+- 🌱 I’m proficient in NodeJs | Typescript | UML's | GraphQL | Databases | Github Flow | GitFlow
 - 💞️ I’m looking to collaborate on JavaScript/Backend Project 
-- I'm willing to learn new languages depending on the project😎
-### 📫 How to reach me: 
-- [linkedIn](http://linkedin.com/in/gospel-nweke-9618b4172)
-
-- [Email](motivatedestate@gmail.com)
-
-- [Twitter](https://mobile.twitter.com/nwekeestate)
+- ⚡ Fun fact: ...
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Estate360&show_icons=true&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nweke.node_Estate&theme=tokyonight" /> -->
+</p>
 
 
 <!---
