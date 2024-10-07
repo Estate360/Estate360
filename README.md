@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Nweke's+GitHub+Profile!)](https://git.io/typing-svg)
 
-# Hello, I'm Gospel Nweke Akachukwu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
+# Hello, I'm Gospel Oroke Akachukwu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
 
 ---
 
